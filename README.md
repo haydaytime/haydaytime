@@ -2,7 +2,7 @@
 - 👀 I’m interested in books, games, music, art, and animals.
 - 🌱 I’m currently learning coding and Japanese
 - 💞️ I’m looking to collaborate on testing
-- 📫 How to reach me: DM or Email
+- 📫 How to reach me: DM anywhere or Email
 
 <!---
 haydaytime/haydaytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
